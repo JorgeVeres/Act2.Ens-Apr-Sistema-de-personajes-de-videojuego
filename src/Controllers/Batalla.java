@@ -1,9 +1,9 @@
 package controllers;
 
-import model.*;
-
-import model.interfaces.*;
 import java.util.Scanner;
+
+import model.*;
+import model.Interfaces.*;
 
 public class Batalla {
     private static Scanner scanner = new Scanner(System.in);
