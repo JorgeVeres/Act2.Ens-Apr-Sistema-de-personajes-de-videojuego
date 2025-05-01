@@ -1,4 +1,4 @@
-package Model.Interfaces;
+package model.interfaces;
 
 public interface Magico {
     double lanzarHechizo();
