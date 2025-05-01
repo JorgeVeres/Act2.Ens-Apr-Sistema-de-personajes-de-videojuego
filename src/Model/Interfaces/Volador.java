@@ -1,4 +1,4 @@
-package model.Interfaces;
+package model.interfaces;
 
 public interface Volador {
     void volar();
