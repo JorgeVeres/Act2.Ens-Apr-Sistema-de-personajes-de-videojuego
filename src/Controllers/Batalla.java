@@ -3,7 +3,7 @@ package controllers;
 import java.util.Scanner;
 
 import model.*;
-import model.Interfaces.*;
+import model.interfaces.*;
 
 public class Batalla {
     private static Scanner scanner = new Scanner(System.in);

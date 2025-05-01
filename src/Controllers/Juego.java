@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import model.Personaje;
-import model.Interfaces.*;
+import model.interfaces.*;
 
 public class Juego {
     private ArrayList<Personaje> personajes = new ArrayList<>();
